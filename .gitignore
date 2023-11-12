@@ -1,0 +1,40 @@
+# Block common Files
+/.idea/
+/auth-course.iml
+/target/
+mvnw
+mvnw.cmd
+
+# Block Java Files
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# Block Maven Files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Block IntelliJ Files
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# Block Visual Studio Code Files
+.vscode/
+.code-workspace
